@@ -1,5 +1,5 @@
 spawn(function()
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/TheRealAvrwm/Projects/refs/heads/main/useless.lua'), true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealAvrwm/Projects/refs/heads/main/rivals%20autofarm.lua"))()
   end)
 -- This file was protected using Luraph Obfuscator v14.3 [https://lura.ph/]
 
